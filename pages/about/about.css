@@ -8,3 +8,66 @@
     width: 1260px;
     margin: 0 auto;
 }
+.bath{
+    position: relative;
+
+}
+.bath_all{
+    padding-top: 250px;
+    display: flex;
+    column-gap: 250px;
+
+}
+.bath__left h3{
+    font-family: Miracle sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.08px;
+    text-transform: capitalize;
+    margin: 60px 0 40px;
+    color: #1B3B36;
+}
+.bath__left p{
+    font-family: Helvetica Neue LT Std sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #1B3B36;
+}
+.bath__right p{
+    margin-top: 60px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #1B3B36;
+    font-family: Helvetica Neue LT Std sans-serif;
+}
+.bath__bottom{
+    border: 1px solid #313F38;
+    border-radius: 99px;
+    width: 249px;
+    height: 70px;
+    margin-top: 36.96px;
+
+}
+.bath__bottom h4{
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+    font-family: Helvetica Neue LT Std sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #1B3B36;
+}
+.premium__room{
+    position: absolute;
+    top: 114px;
+    left: 545px;
+}
