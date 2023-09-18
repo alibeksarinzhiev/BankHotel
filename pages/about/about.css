@@ -8,6 +8,38 @@
     width: 1260px;
     margin: 0 auto;
 }
+.header__route{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #313F38;
+}
+.h1{
+    color:#FFFCF6;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.p1{
+    color:#FFFCF6;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+.link{
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 70px;
+    display: flex;
+}
+.link__a{
+    color:#FFFCF6;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+}
 .bath{
     position: relative;
 
